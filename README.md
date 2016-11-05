@@ -1,0 +1,1 @@
+This actually isn't my first Git project, but its the first time I'm using command line to work on a Git project.
